@@ -1,9 +1,11 @@
 body {
     padding: 30px 100px;
-    font-family: 'Prompt', sans-serif;
+    font-family: font-family: 'Maitree', serif;
     background-color: lightskyblue;
 }
-
+h1{
+    font-family: 'Mitr', sans-serif;
+}
 .img-circle {
     border-radius: 50%;
     width: 200px;
