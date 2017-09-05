@@ -1,10 +1,13 @@
 body {
-    padding: 30px 100px;
-    font-family: font-family: 'Maitree', serif;
-    background-color: lightskyblue;
+    padding: 0px 50px;
+    font-family: 'Prompt', sans-serif;
+    background-color: gray;
 }
 h1{
     font-family: 'Mitr', sans-serif;
+}
+h2{
+    font-family: 'Pattaya', sans-serif;
 }
 .img-circle {
     border-radius: 50%;
